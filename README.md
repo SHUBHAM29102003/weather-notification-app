@@ -1,5 +1,5 @@
 🚦 Smart Traffic Signal Controller
-A cloud-based, IoT-driven traffic management system that dynamically controls traffic signal timings based on real-time traffic data. This project uses AWS services to simulate, process, and respond to changing traffic conditions in a smart and automated way.
+A cloud-based, IoT-driven traffic management system that dynamically controls traffic signal timings based on real-time traffic data. 
 
 📌 Features
 Real-time traffic data simulation
